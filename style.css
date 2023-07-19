@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+   
 }
 
 nav{
@@ -31,3 +32,55 @@ nav{
     margin-right: 50px;
     font-size: 30px;
 }
+
+.Home{
+    display: flex;
+    width: 100%;
+    height: auto;
+    background-color: whitesmoke;
+}
+
+.Home-img{
+    width: 500px;
+    height: 600px;
+    border-radius: 50px;
+}
+
+.Home-left {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+
+
+}
+
+.Home-right {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Hello {
+    font-size: 40px;
+    color: navy;
+}
+
+.profile {
+    font-size: 60px;
+    color: tomato;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Developer {
+    font-size: 40;
+    color: navy;
+}
+
+
+
