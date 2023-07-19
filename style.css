@@ -21,7 +21,7 @@ nav{
     margin-left: 50px;
 }
 
-.link{
+.Links{
     text-decoration: none;
     font-display: 20%;
     margin-right: 50px;
@@ -80,6 +80,14 @@ nav{
 .Developer {
     font-size: 40;
     color: navy;
+}
+
+.about{
+    font-weight: 100%;
+    height: auto;
+    background-color: whitesmoke;
+    display: flex;
+    
 }
 
 
